@@ -10,11 +10,9 @@
 - api调用位置：hanlpAPI.py 参考网址：https://www.hanlp.com/product.html
 - github代码位置：hanlp.py 参考网址：https://github.com/hankcs/HanLP
 
-## 数据文件说明
-### 1.完整数据
-shPlace_data.json
-### 2.数据demo
-data_sample.json
-### 3.hanlp的爬取数据识别效果
+## 文件说明
+### 1.爬虫代码
+crawler.py
+### 2.hanlp的爬取数据识别效果
 apiTestResult.json
 
