@@ -1,0 +1,2272 @@
+{
+    "test_0": {
+        "name": "藏金阁",
+        "res": [
+            {
+                "nature": "ns",
+                "word": "藏金阁"
+            }
+        ]
+    },
+    "test_1": {
+        "name": "香豪小镇",
+        "res": [
+            {
+                "nature": "a",
+                "word": "香"
+            },
+            {
+                "nature": "ag",
+                "word": "豪"
+            },
+            {
+                "nature": "n",
+                "word": "小镇"
+            }
+        ]
+    },
+    "test_2": {
+        "name": "申亚乡村度假农园",
+        "res": [
+            {
+                "nature": "nr",
+                "word": "申亚"
+            },
+            {
+                "nature": "n",
+                "word": "乡村"
+            },
+            {
+                "nature": "vn",
+                "word": "度假"
+            },
+            {
+                "nature": "nr",
+                "word": "农园"
+            }
+        ]
+    },
+    "test_3": {
+        "name": "渔乐湾生态园",
+        "res": [
+            {
+                "nature": "ns",
+                "word": "渔乐湾"
+            },
+            {
+                "nature": "n",
+                "word": "生态"
+            },
+            {
+                "nature": "ng",
+                "word": "园"
+            }
+        ]
+    },
+    "test_4": {
+        "name": "林中林农庄",
+        "res": [
+            {
+                "nature": "nr",
+                "word": "林中林"
+            },
+            {
+                "nature": "n",
+                "word": "农庄"
+            }
+        ]
+    },
+    "test_5": {
+        "name": "果乡度假村",
+        "res": [
+            {
+                "nature": "n",
+                "word": "果乡"
+            },
+            {
+                "nature": "n",
+                "word": "度假村"
+            }
+        ]
+    },
+    "test_6": {
+        "name": "申亚瑞地怡园",
+        "res": [
+            {
+                "nature": "nr",
+                "word": "申亚瑞"
+            },
+            {
+                "nature": "uv",
+                "word": "地"
+            },
+            {
+                "nature": "vg",
+                "word": "怡"
+            },
+            {
+                "nature": "ng",
+                "word": "园"
+            }
+        ]
+    },
+    "test_7": {
+        "name": "汉忠柑橘采摘园",
+        "res": [
+            {
+                "nature": "nr",
+                "word": "汉忠"
+            },
+            {
+                "nature": "n",
+                "word": "柑橘"
+            },
+            {
+                "nature": "v",
+                "word": "采摘"
+            },
+            {
+                "nature": "ng",
+                "word": "园"
+            }
+        ]
+    },
+    "test_8": {
+        "name": "明德园",
+        "res": [
+            {
+                "nature": "nr",
+                "word": "明德园"
+            }
+        ]
+    },
+    "test_9": {
+        "name": "PYO 上海酒店第3167名",
+        "res": [
+            {
+                "nature": "nx",
+                "word": "PYO"
+            },
+            {
+                "nature": "w",
+                "word": " "
+            },
+            {
+                "nature": "ns",
+                "word": "上海"
+            },
+            {
+                "nature": "n",
+                "word": "酒店"
+            },
+            {
+                "nature": "mq",
+                "word": "第"
+            },
+            {
+                "nature": "m",
+                "word": "3167"
+            },
+            {
+                "nature": "q",
+                "word": "名"
+            }
+        ]
+    },
+    "test_10": {
+        "name": "格致青少年体育俱乐部",
+        "res": [
+            {
+                "nature": "j",
+                "word": "格"
+            },
+            {
+                "nature": "v",
+                "word": "致"
+            },
+            {
+                "nature": "n",
+                "word": "青少年"
+            },
+            {
+                "nature": "n",
+                "word": "体育"
+            },
+            {
+                "nature": "n",
+                "word": "俱乐部"
+            }
+        ]
+    },
+    "test_11": {
+        "name": "曲阳影都",
+        "res": [
+            {
+                "nature": "ns",
+                "word": "曲阳"
+            },
+            {
+                "nature": "n",
+                "word": "影都"
+            }
+        ]
+    },
+    "test_12": {
+        "name": "上海市工人文化宫",
+        "res": [
+            {
+                "nature": "nt",
+                "word": "上海市工人文化宫"
+            }
+        ]
+    },
+    "test_13": {
+        "name": "曲阳社区文化中心",
+        "res": [
+            {
+                "nature": "ns",
+                "word": "曲阳"
+            },
+            {
+                "nature": "ns",
+                "word": "社区"
+            },
+            {
+                "nature": "n",
+                "word": "文化"
+            },
+            {
+                "nature": "n",
+                "word": "中心"
+            }
+        ]
+    },
+    "test_14": {
+        "name": "三林世博文化中心",
+        "res": [
+            {
+                "nature": "ns",
+                "word": "三林"
+            },
+            {
+                "nature": "ng",
+                "word": "世"
+            },
+            {
+                "nature": "ag",
+                "word": "博"
+            },
+            {
+                "nature": "n",
+                "word": "文化"
+            },
+            {
+                "nature": "n",
+                "word": "中心"
+            }
+        ]
+    },
+    "test_15": {
+        "name": "黄浦区工人文化宫",
+        "res": [
+            {
+                "nature": "ns",
+                "word": "黄浦区"
+            },
+            {
+                "nature": "n",
+                "word": "工人"
+            },
+            {
+                "nature": "n",
+                "word": "文化宫"
+            }
+        ]
+    },
+    "test_16": {
+        "name": "沪东工人文化宫",
+        "res": [
+            {
+                "nature": "ns",
+                "word": "沪东"
+            },
+            {
+                "nature": "n",
+                "word": "工人"
+            },
+            {
+                "nature": "n",
+                "word": "文化宫"
+            }
+        ]
+    },
+    "test_17": {
+        "name": "康桥文化中心",
+        "res": [
+            {
+                "nature": "ns",
+                "word": "康桥文化中心"
+            }
+        ]
+    },
+    "test_18": {
+        "name": "杨浦区文化馆",
+        "res": [
+            {
+                "nature": "ns",
+                "word": "杨浦区"
+            },
+            {
+                "nature": "n",
+                "word": "文化馆"
+            }
+        ]
+    },
+    "test_19": {
+        "name": "宝山区少年宫",
+        "res": [
+            {
+                "nature": "ns",
+                "word": "宝山区"
+            },
+            {
+                "nature": "n",
+                "word": "少年宫"
+            }
+        ]
+    },
+    "test_20": {
+        "name": "龙琪会所",
+        "res": [
+            {
+                "nature": "nr",
+                "word": "龙琪会"
+            },
+            {
+                "nature": "u",
+                "word": "所"
+            }
+        ]
+    },
+    "test_21": {
+        "name": "蒙古大草原",
+        "res": [
+            {
+                "nature": "nr",
+                "word": "蒙古大"
+            },
+            {
+                "nature": "n",
+                "word": "草原"
+            }
+        ]
+    },
+    "test_22": {
+        "name": "金玉满堂",
+        "res": [
+            {
+                "nature": "i",
+                "word": "金玉满堂"
+            }
+        ]
+    },
+    "test_23": {
+        "name": "歌笙",
+        "res": [
+            {
+                "nature": "nr",
+                "word": "歌笙"
+            }
+        ]
+    },
+    "test_24": {
+        "name": "金樽KTV",
+        "res": [
+            {
+                "nature": "ng",
+                "word": "金"
+            },
+            {
+                "nature": "ng",
+                "word": "樽"
+            },
+            {
+                "nature": "nx",
+                "word": "KTV"
+            }
+        ]
+    },
+    "test_25": {
+        "name": "于声聚来KTV",
+        "res": [
+            {
+                "nature": "nr",
+                "word": "于声聚"
+            },
+            {
+                "nature": "v",
+                "word": "来"
+            },
+            {
+                "nature": "nx",
+                "word": "KTV"
+            }
+        ]
+    },
+    "test_26": {
+        "name": "鑫城KTV",
+        "res": [
+            {
+                "nature": "nr",
+                "word": "鑫"
+            },
+            {
+                "nature": "n",
+                "word": "城"
+            },
+            {
+                "nature": "nx",
+                "word": "KTV"
+            }
+        ]
+    },
+    "test_27": {
+        "name": "永利会所",
+        "res": [
+            {
+                "nature": "nrf",
+                "word": "永利"
+            },
+            {
+                "nature": "v",
+                "word": "会"
+            },
+            {
+                "nature": "u",
+                "word": "所"
+            }
+        ]
+    },
+    "test_28": {
+        "name": "金海岸演艺大舞台",
+        "res": [
+            {
+                "nature": "nr",
+                "word": "金海岸"
+            },
+            {
+                "nature": "n",
+                "word": "演艺"
+            },
+            {
+                "nature": "a",
+                "word": "大"
+            },
+            {
+                "nature": "n",
+                "word": "舞台"
+            }
+        ]
+    },
+    "test_29": {
+        "name": "夜明珠娱乐总汇",
+        "res": [
+            {
+                "nature": "n",
+                "word": "夜明珠"
+            },
+            {
+                "nature": "vn",
+                "word": "娱乐"
+            },
+            {
+                "nature": "vn",
+                "word": "总汇"
+            }
+        ]
+    },
+    "test_30": {
+        "name": "世纪广场(南京路步行街)",
+        "res": [
+            {
+                "nature": "n",
+                "word": "世纪"
+            },
+            {
+                "nature": "n",
+                "word": "广场"
+            },
+            {
+                "nature": "w",
+                "word": "("
+            },
+            {
+                "nature": "ns",
+                "word": "南京路"
+            },
+            {
+                "nature": "n",
+                "word": "步行街"
+            },
+            {
+                "nature": "w",
+                "word": ")"
+            }
+        ]
+    },
+    "test_31": {
+        "name": "九亭文化广场",
+        "res": [
+            {
+                "nature": "ns",
+                "word": "九亭"
+            },
+            {
+                "nature": "ns",
+                "word": "文化广场"
+            }
+        ]
+    },
+    "test_32": {
+        "name": "好爱广场",
+        "res": [
+            {
+                "nature": "a",
+                "word": "好"
+            },
+            {
+                "nature": "v",
+                "word": "爱"
+            },
+            {
+                "nature": "n",
+                "word": "广场"
+            }
+        ]
+    },
+    "test_33": {
+        "name": "东方明珠-城市广场",
+        "res": [
+            {
+                "nature": "ns",
+                "word": "东方明珠"
+            },
+            {
+                "nature": "nx",
+                "word": "-"
+            },
+            {
+                "nature": "n",
+                "word": "城市"
+            },
+            {
+                "nature": "n",
+                "word": "广场"
+            }
+        ]
+    },
+    "test_34": {
+        "name": "东兰休闲广场",
+        "res": [
+            {
+                "nature": "nz",
+                "word": "东兰"
+            },
+            {
+                "nature": "vn",
+                "word": "休闲"
+            },
+            {
+                "nature": "n",
+                "word": "广场"
+            }
+        ]
+    },
+    "test_35": {
+        "name": "古美科普公园-闵行市民文化广场",
+        "res": [
+            {
+                "nature": "nr",
+                "word": "古美"
+            },
+            {
+                "nature": "nrf",
+                "word": "科普"
+            },
+            {
+                "nature": "n",
+                "word": "公园"
+            },
+            {
+                "nature": "nx",
+                "word": "-"
+            },
+            {
+                "nature": "ns",
+                "word": "闵行"
+            },
+            {
+                "nature": "n",
+                "word": "市民"
+            },
+            {
+                "nature": "ns",
+                "word": "文化广场"
+            }
+        ]
+    },
+    "test_36": {
+        "name": "鲁迅公园-世界文豪广场",
+        "res": [
+            {
+                "nature": "nz",
+                "word": "鲁迅公园"
+            },
+            {
+                "nature": "nx",
+                "word": "-"
+            },
+            {
+                "nature": "n",
+                "word": "世界"
+            },
+            {
+                "nature": "n",
+                "word": "文豪"
+            },
+            {
+                "nature": "n",
+                "word": "广场"
+            }
+        ]
+    },
+    "test_37": {
+        "name": "北上海购物中心",
+        "res": [
+            {
+                "nature": "ns",
+                "word": "北上海"
+            },
+            {
+                "nature": "v",
+                "word": "购物"
+            },
+            {
+                "nature": "n",
+                "word": "中心"
+            }
+        ]
+    },
+    "test_38": {
+        "name": "兰馨广场",
+        "res": [
+            {
+                "nature": "nr",
+                "word": "兰馨"
+            },
+            {
+                "nature": "n",
+                "word": "广场"
+            }
+        ]
+    },
+    "test_39": {
+        "name": "欧雅壁布时尚广场(黄兴路店)",
+        "res": [
+            {
+                "nature": "nrf",
+                "word": "欧雅"
+            },
+            {
+                "nature": "nz",
+                "word": "壁布"
+            },
+            {
+                "nature": "n",
+                "word": "时尚"
+            },
+            {
+                "nature": "n",
+                "word": "广场"
+            },
+            {
+                "nature": "w",
+                "word": "("
+            },
+            {
+                "nature": "ns",
+                "word": "黄兴路"
+            },
+            {
+                "nature": "n",
+                "word": "店"
+            },
+            {
+                "nature": "w",
+                "word": ")"
+            }
+        ]
+    },
+    "test_40": {
+        "name": "港汇恒隆广场",
+        "res": [
+            {
+                "nature": "j",
+                "word": "港"
+            },
+            {
+                "nature": "v",
+                "word": "汇"
+            },
+            {
+                "nature": "nz",
+                "word": "恒隆"
+            },
+            {
+                "nature": "n",
+                "word": "广场"
+            }
+        ]
+    },
+    "test_41": {
+        "name": "金鹰国际购物中心",
+        "res": [
+            {
+                "nature": "nr",
+                "word": "金鹰"
+            },
+            {
+                "nature": "nt",
+                "word": "国际购物中心"
+            }
+        ]
+    },
+    "test_42": {
+        "name": "天之骄子生活新天地",
+        "res": [
+            {
+                "nature": "i",
+                "word": "天之骄子"
+            },
+            {
+                "nature": "vn",
+                "word": "生活"
+            },
+            {
+                "nature": "a",
+                "word": "新"
+            },
+            {
+                "nature": "n",
+                "word": "天地"
+            }
+        ]
+    },
+    "test_43": {
+        "name": "百联徐汇商业广场",
+        "res": [
+            {
+                "nature": "m",
+                "word": "百"
+            },
+            {
+                "nature": "ns",
+                "word": "联徐汇"
+            },
+            {
+                "nature": "nz",
+                "word": "商业广场"
+            }
+        ]
+    },
+    "test_44": {
+        "name": "万达广场(上海松江店)",
+        "res": [
+            {
+                "nature": "nz",
+                "word": "万达"
+            },
+            {
+                "nature": "n",
+                "word": "广场"
+            },
+            {
+                "nature": "w",
+                "word": "("
+            },
+            {
+                "nature": "ns",
+                "word": "上海"
+            },
+            {
+                "nature": "ns",
+                "word": "松江店"
+            },
+            {
+                "nature": "w",
+                "word": ")"
+            }
+        ]
+    },
+    "test_45": {
+        "name": "百联东郊购物中心",
+        "res": [
+            {
+                "nature": "m",
+                "word": "百"
+            },
+            {
+                "nature": "vg",
+                "word": "联"
+            },
+            {
+                "nature": "s",
+                "word": "东郊"
+            },
+            {
+                "nature": "v",
+                "word": "购物"
+            },
+            {
+                "nature": "n",
+                "word": "中心"
+            }
+        ]
+    },
+    "test_46": {
+        "name": "雅居乐国际广场",
+        "res": [
+            {
+                "nature": "ntc",
+                "word": "雅居乐"
+            },
+            {
+                "nature": "n",
+                "word": "国际"
+            },
+            {
+                "nature": "n",
+                "word": "广场"
+            }
+        ]
+    },
+    "test_47": {
+        "name": "凯德龙之梦闵行广场",
+        "res": [
+            {
+                "nature": "nrf",
+                "word": "凯德"
+            },
+            {
+                "nature": "nz",
+                "word": "龙之梦"
+            },
+            {
+                "nature": "ns",
+                "word": "闵行"
+            },
+            {
+                "nature": "n",
+                "word": "广场"
+            }
+        ]
+    },
+    "test_48": {
+        "name": "缤谷广场",
+        "res": [
+            {
+                "nature": "n",
+                "word": "缤"
+            },
+            {
+                "nature": "ng",
+                "word": "谷"
+            },
+            {
+                "nature": "n",
+                "word": "广场"
+            }
+        ]
+    },
+    "test_49": {
+        "name": "三鑫世界商厦",
+        "res": [
+            {
+                "nature": "nz",
+                "word": "三鑫"
+            },
+            {
+                "nature": "n",
+                "word": "世界"
+            },
+            {
+                "nature": "n",
+                "word": "商厦"
+            }
+        ]
+    },
+    "test_50": {
+        "name": "上海永乐BLLH仙霞店",
+        "res": [
+            {
+                "nature": "ns",
+                "word": "上海"
+            },
+            {
+                "nature": "nz",
+                "word": "永乐"
+            },
+            {
+                "nature": "nx",
+                "word": "BLLH"
+            },
+            {
+                "nature": "nz",
+                "word": "仙霞"
+            },
+            {
+                "nature": "n",
+                "word": "店"
+            }
+        ]
+    },
+    "test_51": {
+        "name": "永乐宝钢商场(超级旗舰店)",
+        "res": [
+            {
+                "nature": "nz",
+                "word": "永乐"
+            },
+            {
+                "nature": "n",
+                "word": "宝钢"
+            },
+            {
+                "nature": "n",
+                "word": "商场"
+            },
+            {
+                "nature": "w",
+                "word": "("
+            },
+            {
+                "nature": "b",
+                "word": "超级"
+            },
+            {
+                "nature": "n",
+                "word": "旗舰"
+            },
+            {
+                "nature": "n",
+                "word": "店"
+            },
+            {
+                "nature": "w",
+                "word": ")"
+            }
+        ]
+    },
+    "test_52": {
+        "name": "国美电器(浦东大道店)",
+        "res": [
+            {
+                "nature": "ntc",
+                "word": "国美"
+            },
+            {
+                "nature": "n",
+                "word": "电器"
+            },
+            {
+                "nature": "w",
+                "word": "("
+            },
+            {
+                "nature": "ns",
+                "word": "浦东大道"
+            },
+            {
+                "nature": "n",
+                "word": "店"
+            },
+            {
+                "nature": "w",
+                "word": ")"
+            }
+        ]
+    },
+    "test_53": {
+        "name": "永乐生活电器(东体育会路店)",
+        "res": [
+            {
+                "nature": "nz",
+                "word": "永乐"
+            },
+            {
+                "nature": "vn",
+                "word": "生活"
+            },
+            {
+                "nature": "n",
+                "word": "电器"
+            },
+            {
+                "nature": "w",
+                "word": "("
+            },
+            {
+                "nature": "ns",
+                "word": "东体育会路"
+            },
+            {
+                "nature": "n",
+                "word": "店"
+            },
+            {
+                "nature": "w",
+                "word": ")"
+            }
+        ]
+    },
+    "test_54": {
+        "name": "永乐生活电器(高桥店)",
+        "res": [
+            {
+                "nature": "nz",
+                "word": "永乐"
+            },
+            {
+                "nature": "vn",
+                "word": "生活"
+            },
+            {
+                "nature": "n",
+                "word": "电器"
+            },
+            {
+                "nature": "w",
+                "word": "("
+            },
+            {
+                "nature": "nz",
+                "word": "高桥"
+            },
+            {
+                "nature": "n",
+                "word": "店"
+            },
+            {
+                "nature": "w",
+                "word": ")"
+            }
+        ]
+    },
+    "test_55": {
+        "name": "永乐生活电器(德平店)",
+        "res": [
+            {
+                "nature": "nz",
+                "word": "永乐"
+            },
+            {
+                "nature": "vn",
+                "word": "生活"
+            },
+            {
+                "nature": "n",
+                "word": "电器"
+            },
+            {
+                "nature": "w",
+                "word": "("
+            },
+            {
+                "nature": "ns",
+                "word": "德平店"
+            },
+            {
+                "nature": "w",
+                "word": ")"
+            }
+        ]
+    },
+    "test_56": {
+        "name": "永乐生活电器(杨浦店)",
+        "res": [
+            {
+                "nature": "nz",
+                "word": "永乐"
+            },
+            {
+                "nature": "vn",
+                "word": "生活"
+            },
+            {
+                "nature": "n",
+                "word": "电器"
+            },
+            {
+                "nature": "w",
+                "word": "("
+            },
+            {
+                "nature": "ns",
+                "word": "杨浦店"
+            },
+            {
+                "nature": "w",
+                "word": ")"
+            }
+        ]
+    },
+    "test_57": {
+        "name": "永乐生活电器(宝山店)",
+        "res": [
+            {
+                "nature": "nz",
+                "word": "永乐"
+            },
+            {
+                "nature": "vn",
+                "word": "生活"
+            },
+            {
+                "nature": "n",
+                "word": "电器"
+            },
+            {
+                "nature": "w",
+                "word": "("
+            },
+            {
+                "nature": "ns",
+                "word": "宝山店"
+            },
+            {
+                "nature": "w",
+                "word": ")"
+            }
+        ]
+    },
+    "test_58": {
+        "name": "永乐家用电器(长逸店)",
+        "res": [
+            {
+                "nature": "nz",
+                "word": "永乐"
+            },
+            {
+                "nature": "l",
+                "word": "家用电器"
+            },
+            {
+                "nature": "w",
+                "word": "("
+            },
+            {
+                "nature": "a",
+                "word": "长"
+            },
+            {
+                "nature": "ag",
+                "word": "逸"
+            },
+            {
+                "nature": "n",
+                "word": "店"
+            },
+            {
+                "nature": "w",
+                "word": ")"
+            }
+        ]
+    },
+    "test_59": {
+        "name": "国美电器(复兴东路店)",
+        "res": [
+            {
+                "nature": "ntc",
+                "word": "国美"
+            },
+            {
+                "nature": "n",
+                "word": "电器"
+            },
+            {
+                "nature": "w",
+                "word": "("
+            },
+            {
+                "nature": "ns",
+                "word": "复兴东路"
+            },
+            {
+                "nature": "n",
+                "word": "店"
+            },
+            {
+                "nature": "w",
+                "word": ")"
+            }
+        ]
+    },
+    "test_60": {
+        "name": "中虹明珠苑",
+        "res": [
+            {
+                "nature": "f",
+                "word": "中"
+            },
+            {
+                "nature": "n",
+                "word": "虹"
+            },
+            {
+                "nature": "n",
+                "word": "明珠"
+            },
+            {
+                "nature": "ng",
+                "word": "苑"
+            }
+        ]
+    },
+    "test_61": {
+        "name": "逸仙路1321弄80-83号楼",
+        "res": [
+            {
+                "nature": "n",
+                "word": "逸仙"
+            },
+            {
+                "nature": "n",
+                "word": "路"
+            },
+            {
+                "nature": "m",
+                "word": "1321"
+            },
+            {
+                "nature": "v",
+                "word": "弄"
+            },
+            {
+                "nature": "m",
+                "word": "80"
+            },
+            {
+                "nature": "nx",
+                "word": "-"
+            },
+            {
+                "nature": "ns",
+                "word": "83号楼"
+            }
+        ]
+    },
+    "test_62": {
+        "name": "逸仙路1321弄3支弄24幢-8386号",
+        "res": [
+            {
+                "nature": "n",
+                "word": "逸仙"
+            },
+            {
+                "nature": "n",
+                "word": "路"
+            },
+            {
+                "nature": "m",
+                "word": "1321"
+            },
+            {
+                "nature": "v",
+                "word": "弄"
+            },
+            {
+                "nature": "m",
+                "word": "3"
+            },
+            {
+                "nature": "q",
+                "word": "支"
+            },
+            {
+                "nature": "v",
+                "word": "弄"
+            },
+            {
+                "nature": "m",
+                "word": "24"
+            },
+            {
+                "nature": "q",
+                "word": "幢"
+            },
+            {
+                "nature": "nx",
+                "word": "-"
+            },
+            {
+                "nature": "m",
+                "word": "8386"
+            },
+            {
+                "nature": "q",
+                "word": "号"
+            }
+        ]
+    },
+    "test_63": {
+        "name": "中海翡翠湖岸别墅",
+        "res": [
+            {
+                "nature": "nz",
+                "word": "中海"
+            },
+            {
+                "nature": "n",
+                "word": "翡翠"
+            },
+            {
+                "nature": "n",
+                "word": "湖岸"
+            },
+            {
+                "nature": "n",
+                "word": "别墅"
+            }
+        ]
+    },
+    "test_64": {
+        "name": "宝华城市花园",
+        "res": [
+            {
+                "nature": "nz",
+                "word": "宝华"
+            },
+            {
+                "nature": "n",
+                "word": "城市"
+            },
+            {
+                "nature": "n",
+                "word": "花园"
+            }
+        ]
+    },
+    "test_65": {
+        "name": "宝华盛世花园",
+        "res": [
+            {
+                "nature": "nz",
+                "word": "宝华"
+            },
+            {
+                "nature": "n",
+                "word": "盛世"
+            },
+            {
+                "nature": "n",
+                "word": "花园"
+            }
+        ]
+    },
+    "test_66": {
+        "name": "保德路1316弄小区",
+        "res": [
+            {
+                "nature": "ns",
+                "word": "保德路"
+            },
+            {
+                "nature": "m",
+                "word": "1316"
+            },
+            {
+                "nature": "v",
+                "word": "弄"
+            },
+            {
+                "nature": "n",
+                "word": "小区"
+            }
+        ]
+    },
+    "test_67": {
+        "name": "星保花苑",
+        "res": [
+            {
+                "nature": "nr",
+                "word": "星保"
+            },
+            {
+                "nature": "nr",
+                "word": "花苑"
+            }
+        ]
+    },
+    "test_68": {
+        "name": "嘉利明珠城",
+        "res": [
+            {
+                "nature": "nrf",
+                "word": "嘉利"
+            },
+            {
+                "nature": "n",
+                "word": "明珠"
+            },
+            {
+                "nature": "n",
+                "word": "城"
+            }
+        ]
+    },
+    "test_69": {
+        "name": "日月光中心-伯爵居",
+        "res": [
+            {
+                "nature": "j",
+                "word": "日"
+            },
+            {
+                "nature": "nrf",
+                "word": "月光"
+            },
+            {
+                "nature": "n",
+                "word": "中心"
+            },
+            {
+                "nature": "nx",
+                "word": "-"
+            },
+            {
+                "nature": "n",
+                "word": "伯爵"
+            },
+            {
+                "nature": "v",
+                "word": "居"
+            }
+        ]
+    },
+    "test_70": {
+        "name": "宝华北岸郡庭别墅",
+        "res": [
+            {
+                "nature": "ns",
+                "word": "宝华北"
+            },
+            {
+                "nature": "n",
+                "word": "岸"
+            },
+            {
+                "nature": "n",
+                "word": "郡"
+            },
+            {
+                "nature": "ng",
+                "word": "庭"
+            },
+            {
+                "nature": "n",
+                "word": "别墅"
+            }
+        ]
+    },
+    "test_71": {
+        "name": "绿地峰尚汇",
+        "res": [
+            {
+                "nature": "n",
+                "word": "绿地"
+            },
+            {
+                "nature": "q",
+                "word": "峰"
+            },
+            {
+                "nature": "d",
+                "word": "尚"
+            },
+            {
+                "nature": "v",
+                "word": "汇"
+            }
+        ]
+    },
+    "test_72": {
+        "name": "阳光城愉景湾",
+        "res": [
+            {
+                "nature": "nr",
+                "word": "阳光城"
+            },
+            {
+                "nature": "n",
+                "word": "愉"
+            },
+            {
+                "nature": "nr",
+                "word": "景湾"
+            }
+        ]
+    },
+    "test_73": {
+        "name": "保利艾庐",
+        "res": [
+            {
+                "nature": "nr",
+                "word": "保利艾"
+            },
+            {
+                "nature": "ng",
+                "word": "庐"
+            }
+        ]
+    },
+    "test_74": {
+        "name": "九间堂",
+        "res": [
+            {
+                "nature": "ns",
+                "word": "九间堂"
+            }
+        ]
+    },
+    "test_75": {
+        "name": "封浜火线村别墅",
+        "res": [
+            {
+                "nature": "ns",
+                "word": "封浜"
+            },
+            {
+                "nature": "n",
+                "word": "火线"
+            },
+            {
+                "nature": "n",
+                "word": "村"
+            },
+            {
+                "nature": "n",
+                "word": "别墅"
+            }
+        ]
+    },
+    "test_76": {
+        "name": "蓝天别墅",
+        "res": [
+            {
+                "nature": "n",
+                "word": "蓝天"
+            },
+            {
+                "nature": "n",
+                "word": "别墅"
+            }
+        ]
+    },
+    "test_77": {
+        "name": "上海虹桥别墅",
+        "res": [
+            {
+                "nature": "ns",
+                "word": "上海"
+            },
+            {
+                "nature": "ns",
+                "word": "虹桥"
+            },
+            {
+                "nature": "n",
+                "word": "别墅"
+            }
+        ]
+    },
+    "test_78": {
+        "name": "佘山高尔夫别墅",
+        "res": [
+            {
+                "nature": "nz",
+                "word": "佘山"
+            },
+            {
+                "nature": "n",
+                "word": "高尔夫"
+            },
+            {
+                "nature": "n",
+                "word": "别墅"
+            }
+        ]
+    },
+    "test_79": {
+        "name": "迪士尼-驿旅阳光别墅豪华单卧",
+        "res": [
+            {
+                "nature": "nrf",
+                "word": "迪士尼"
+            },
+            {
+                "nature": "nx",
+                "word": "-"
+            },
+            {
+                "nature": "n",
+                "word": "驿"
+            },
+            {
+                "nature": "n",
+                "word": "旅"
+            },
+            {
+                "nature": "n",
+                "word": "阳光"
+            },
+            {
+                "nature": "n",
+                "word": "别墅"
+            },
+            {
+                "nature": "a",
+                "word": "豪华"
+            },
+            {
+                "nature": "d",
+                "word": "单"
+            },
+            {
+                "nature": "v",
+                "word": "卧"
+            }
+        ]
+    },
+    "test_80": {
+        "name": "亿博大厦",
+        "res": [
+            {
+                "nature": "m",
+                "word": "亿"
+            },
+            {
+                "nature": "ag",
+                "word": "博"
+            },
+            {
+                "nature": "n",
+                "word": "大厦"
+            }
+        ]
+    },
+    "test_81": {
+        "name": "美隆大厦",
+        "res": [
+            {
+                "nature": "j",
+                "word": "美"
+            },
+            {
+                "nature": "ag",
+                "word": "隆"
+            },
+            {
+                "nature": "n",
+                "word": "大厦"
+            }
+        ]
+    },
+    "test_82": {
+        "name": "南汇信息大楼",
+        "res": [
+            {
+                "nature": "nr",
+                "word": "南汇"
+            },
+            {
+                "nature": "n",
+                "word": "信息"
+            },
+            {
+                "nature": "n",
+                "word": "大楼"
+            }
+        ]
+    },
+    "test_83": {
+        "name": "上海金虹桥国际中心",
+        "res": [
+            {
+                "nature": "ns",
+                "word": "上海"
+            },
+            {
+                "nature": "ns",
+                "word": "金虹桥"
+            },
+            {
+                "nature": "nt",
+                "word": "国际中心"
+            }
+        ]
+    },
+    "test_84": {
+        "name": "虹桥万科中心",
+        "res": [
+            {
+                "nature": "ns",
+                "word": "虹桥"
+            },
+            {
+                "nature": "m",
+                "word": "万"
+            },
+            {
+                "nature": "n",
+                "word": "科"
+            },
+            {
+                "nature": "n",
+                "word": "中心"
+            }
+        ]
+    },
+    "test_85": {
+        "name": "海之幸(兰生大厦店)",
+        "res": [
+            {
+                "nature": "nr",
+                "word": "海之幸"
+            },
+            {
+                "nature": "w",
+                "word": "("
+            },
+            {
+                "nature": "nr",
+                "word": "兰生"
+            },
+            {
+                "nature": "n",
+                "word": "大厦"
+            },
+            {
+                "nature": "n",
+                "word": "店"
+            },
+            {
+                "nature": "w",
+                "word": ")"
+            }
+        ]
+    },
+    "test_86": {
+        "name": "兰生大厦",
+        "res": [
+            {
+                "nature": "nr",
+                "word": "兰生"
+            },
+            {
+                "nature": "n",
+                "word": "大厦"
+            }
+        ]
+    },
+    "test_87": {
+        "name": "中国金融信息大厦",
+        "res": [
+            {
+                "nature": "ns",
+                "word": "中国"
+            },
+            {
+                "nature": "nz",
+                "word": "金融信息"
+            },
+            {
+                "nature": "n",
+                "word": "大厦"
+            }
+        ]
+    },
+    "test_88": {
+        "name": "中国金融信息大厦",
+        "res": [
+            {
+                "nature": "ns",
+                "word": "中国"
+            },
+            {
+                "nature": "nz",
+                "word": "金融信息"
+            },
+            {
+                "nature": "n",
+                "word": "大厦"
+            }
+        ]
+    },
+    "test_89": {
+        "name": "长峰中心",
+        "res": [
+            {
+                "nature": "ns",
+                "word": "长峰"
+            },
+            {
+                "nature": "n",
+                "word": "中心"
+            }
+        ]
+    },
+    "test_90": {
+        "name": "小上海步行街",
+        "res": [
+            {
+                "nature": "ns",
+                "word": "小上海"
+            },
+            {
+                "nature": "n",
+                "word": "步行街"
+            }
+        ]
+    },
+    "test_91": {
+        "name": "纪鹤路505弄",
+        "res": [
+            {
+                "nature": "ns",
+                "word": "纪鹤路"
+            },
+            {
+                "nature": "m",
+                "word": "505"
+            },
+            {
+                "nature": "v",
+                "word": "弄"
+            }
+        ]
+    },
+    "test_92": {
+        "name": "伴亭路229弄",
+        "res": [
+            {
+                "nature": "ns",
+                "word": "伴亭路"
+            },
+            {
+                "nature": "m",
+                "word": "229"
+            },
+            {
+                "nature": "v",
+                "word": "弄"
+            }
+        ]
+    },
+    "test_93": {
+        "name": "荣乐西路1635弄",
+        "res": [
+            {
+                "nature": "ns",
+                "word": "荣乐西路"
+            },
+            {
+                "nature": "m",
+                "word": "1635"
+            },
+            {
+                "nature": "v",
+                "word": "弄"
+            }
+        ]
+    },
+    "test_94": {
+        "name": "内环高架路",
+        "res": [
+            {
+                "nature": "ns",
+                "word": "内环高架路"
+            }
+        ]
+    },
+    "test_95": {
+        "name": "内环高架路",
+        "res": [
+            {
+                "nature": "ns",
+                "word": "内环高架路"
+            }
+        ]
+    },
+    "test_96": {
+        "name": "沈海高速公路",
+        "res": [
+            {
+                "nature": "nr",
+                "word": "沈海"
+            },
+            {
+                "nature": "n",
+                "word": "高速公路"
+            }
+        ]
+    },
+    "test_97": {
+        "name": "内环高架路",
+        "res": [
+            {
+                "nature": "ns",
+                "word": "内环高架路"
+            }
+        ]
+    },
+    "test_98": {
+        "name": "逸仙高架路",
+        "res": [
+            {
+                "nature": "ns",
+                "word": "逸仙高架路"
+            }
+        ]
+    },
+    "test_99": {
+        "name": "逸仙高架路",
+        "res": [
+            {
+                "nature": "ns",
+                "word": "逸仙高架路"
+            }
+        ]
+    },
+    "test_100": {
+        "name": "大东(新建街)",
+        "res": [
+            {
+                "nature": "ns",
+                "word": "大东"
+            },
+            {
+                "nature": "w",
+                "word": "("
+            },
+            {
+                "nature": "ns",
+                "word": "新建街"
+            },
+            {
+                "nature": "w",
+                "word": ")"
+            }
+        ]
+    },
+    "test_101": {
+        "name": "大东",
+        "res": [
+            {
+                "nature": "ns",
+                "word": "大东"
+            }
+        ]
+    },
+    "test_102": {
+        "name": "桃源",
+        "res": [
+            {
+                "nature": "ns",
+                "word": "桃源"
+            }
+        ]
+    },
+    "test_103": {
+        "name": "徐汇区",
+        "res": [
+            {
+                "nature": "ns",
+                "word": "徐汇区"
+            }
+        ]
+    },
+    "test_104": {
+        "name": "徐汇区",
+        "res": [
+            {
+                "nature": "ns",
+                "word": "徐汇区"
+            }
+        ]
+    },
+    "test_105": {
+        "name": "卢湾区",
+        "res": [
+            {
+                "nature": "ns",
+                "word": "卢湾区"
+            }
+        ]
+    },
+    "test_106": {
+        "name": "崇明县",
+        "res": [
+            {
+                "nature": "ns",
+                "word": "崇明县"
+            }
+        ]
+    },
+    "test_107": {
+        "name": "黄浦区",
+        "res": [
+            {
+                "nature": "ns",
+                "word": "黄浦区"
+            }
+        ]
+    },
+    "test_108": {
+        "name": "奉贤区",
+        "res": [
+            {
+                "nature": "ns",
+                "word": "奉贤区"
+            }
+        ]
+    },
+    "test_109": {
+        "name": "长宁区",
+        "res": [
+            {
+                "nature": "ns",
+                "word": "长宁区"
+            }
+        ]
+    },
+    "test_110": {
+        "name": "徐家汇",
+        "res": [
+            {
+                "nature": "ns",
+                "word": "徐家汇"
+            }
+        ]
+    },
+    "test_111": {
+        "name": "吴淞",
+        "res": [
+            {
+                "nature": "ns",
+                "word": "吴淞"
+            }
+        ]
+    },
+    "test_112": {
+        "name": "八佰伴",
+        "res": [
+            {
+                "nature": "nz",
+                "word": "八佰伴"
+            }
+        ]
+    },
+    "test_113": {
+        "name": "临平路",
+        "res": [
+            {
+                "nature": "ns",
+                "word": "临平路"
+            }
+        ]
+    },
+    "test_114": {
+        "name": "周家嘴路",
+        "res": [
+            {
+                "nature": "ns",
+                "word": "周家嘴路"
+            }
+        ]
+    },
+    "test_115": {
+        "name": "岳阳",
+        "res": [
+            {
+                "nature": "ns",
+                "word": "岳阳"
+            }
+        ]
+    },
+    "test_116": {
+        "name": "川沙",
+        "res": [
+            {
+                "nature": "j",
+                "word": "川"
+            },
+            {
+                "nature": "n",
+                "word": "沙"
+            }
+        ]
+    },
+    "test_117": {
+        "name": "凉城",
+        "res": [
+            {
+                "nature": "ns",
+                "word": "凉城"
+            }
+        ]
+    },
+    "test_118": {
+        "name": "凌云路",
+        "res": [
+            {
+                "nature": "ns",
+                "word": "凌云路"
+            }
+        ]
+    },
+    "test_119": {
+        "name": "罗泾",
+        "res": [
+            {
+                "nature": "ns",
+                "word": "罗泾"
+            }
+        ]
+    },
+    "test_120": {
+        "name": "枫林路街道",
+        "res": [
+            {
+                "nature": "ns",
+                "word": "枫林路街道"
+            }
+        ]
+    },
+    "test_121": {
+        "name": "东明路街道",
+        "res": [
+            {
+                "nature": "ns",
+                "word": "东明路街道"
+            }
+        ]
+    },
+    "test_122": {
+        "name": "洪家葡萄园",
+        "res": [
+            {
+                "nature": "nr",
+                "word": "洪家"
+            },
+            {
+                "nature": "n",
+                "word": "葡萄园"
+            }
+        ]
+    },
+    "test_123": {
+        "name": "新虹街道",
+        "res": [
+            {
+                "nature": "ns",
+                "word": "新虹街道"
+            }
+        ]
+    },
+    "test_124": {
+        "name": "彭浦新村街道",
+        "res": [
+            {
+                "nature": "ns",
+                "word": "彭浦新村街道"
+            }
+        ]
+    },
+    "test_125": {
+        "name": "上海市奉贤区塘外种畜场",
+        "res": [
+            {
+                "nature": "ns",
+                "word": "上海市"
+            },
+            {
+                "nature": "ns",
+                "word": "奉贤区"
+            },
+            {
+                "nature": "ns",
+                "word": "塘外"
+            },
+            {
+                "nature": "ns",
+                "word": "种畜场"
+            }
+        ]
+    },
+    "test_126": {
+        "name": "静海小镇",
+        "res": [
+            {
+                "nature": "ns",
+                "word": "静海"
+            },
+            {
+                "nature": "n",
+                "word": "小镇"
+            }
+        ]
+    },
+    "test_127": {
+        "name": "上海市孙桥农场",
+        "res": [
+            {
+                "nature": "ns",
+                "word": "上海市"
+            },
+            {
+                "nature": "ns",
+                "word": "孙桥"
+            },
+            {
+                "nature": "ns",
+                "word": "农场"
+            }
+        ]
+    },
+    "test_128": {
+        "name": "杜行种畜场",
+        "res": [
+            {
+                "nature": "ns",
+                "word": "杜行"
+            },
+            {
+                "nature": "ns",
+                "word": "种畜场"
+            }
+        ]
+    },
+    "test_129": {
+        "name": "光明Mart",
+        "res": [
+            {
+                "nature": "ntc",
+                "word": "光明"
+            },
+            {
+                "nature": "nx",
+                "word": "Mart"
+            }
+        ]
+    }
+}
