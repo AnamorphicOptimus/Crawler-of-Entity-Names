@@ -1,9 +1,5 @@
 # -*- coding: utf-8 -*-
-"""
-Created on Fri Nov  6 10:33:08 2020
 
-@author: yulu
-"""
 import json
 
 def get_page_num(page_info):
