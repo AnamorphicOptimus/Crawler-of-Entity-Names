@@ -1,18 +1,12 @@
 # -*- coding: utf-8 -*-
-"""
-Created on Fri Nov  9 10:33:08 2020
 
-@author: yulu
-
-hanlp API地址识别测试
-"""
 import requests
 import json
 
-token = "1e112e5d66204b47a2aa6b2f1574f5d21604908568773token"
+token = ""
 api_name = "http://comdo.hanlp.com/hanlp/v1/ner/place"
 headers = {
-    'token': "1e112e5d66204b47a2aa6b2f1574f5d21604908568773token"
+    'token': ""
 }
 
 with open(r'./shPlace_data.json', 'r', encoding='utf8')as fp:
