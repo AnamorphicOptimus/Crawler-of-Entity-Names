@@ -1,18 +1,18 @@
-## 地理位置爬虫
 
-采用selenium自动化爬取，数据来源[本地生活](http://life.city8090.com/shanghai/)
+## NER Crawler
 
-## 数据格式
-- **类别**：共十四类，"度假村/度假区", "文化馆/活动中心", "夜总会/娱乐中心", "休闲广场", "购物中心", "电器商场", "超市", "小区", "别墅","办公大厦", "道路名称", "区县", "商圈", "乡镇"
-- **数据内容**：包含具体位置名字（name）以及具体地址（address），[示例见此](https://git.mgvai.cn/ai/spider/-/blob/master/data_sample.json)
+Use selenium to automatically crawl, data source [local life](http://life.city8090.com/shanghai/)
 
-## hanlp命名实体识别模块
-- api调用位置：hanlpAPI.py 参考网址：https://www.hanlp.com/product.html
-- github代码位置：hanlp.py 参考网址：https://github.com/hankcs/HanLP
+## Data Format
+-**Category**: A total of 14 categories, "Resorts/Resorts", "Cultural Centers/Activities Center", "Night Clubs/Entertainment Centers", "Leisure Plazas", "Shopping Centers", "Electrical Appliances Malls", "Supermarkets" ", "Community", "Villa", "Office Building", "Road Name", "District County", "Business Circle", "Town"
+-**Data content**: contains the specific location name (name) and specific address (address)
 
-## 文件说明
-### 1.爬虫代码
+## hanlp named entity recognition module
+-api call location: hanlpAPI.py Reference website: https://www.hanlp.com/product.html
+-github code location: hanlp.py Reference website: https://github.com/hankcs/HanLP
+
+## File description
+### 1. Crawler code
 crawler.py
-### 2.hanlp的爬取数据识别效果
+### 2.hanlp's crawling data recognition effect
 apiTestResult.json
-
